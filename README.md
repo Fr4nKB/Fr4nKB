@@ -1,4 +1,4 @@
-### Hello there, I'm Francesco 👋
+### Hi, I'm Francesco 👋
 
 - Master student in Computer Enginerring @ UniPi
 - Hardware enthusiast
