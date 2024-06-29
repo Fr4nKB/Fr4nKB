@@ -5,5 +5,5 @@
 - I work on random projects on my spare time
 
 #### Skills
-![Main skills](https://skillicons.dev/icons?i=cpp,py,mysql,html,js,java)
+![Main skills](https://skillicons.dev/icons?i=cpp,py,mysql,html,js,java,kotlin)
 
