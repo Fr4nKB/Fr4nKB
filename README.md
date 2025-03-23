@@ -1,11 +1,11 @@
-<h1 align="center">Hello there... I'm Francesco😊</h1>
+<h1 align="center">Hello there... I'm Francesco</h1>
 
 - Master student in Computer Enginerring @ UniPi
 - Hardware enthusiast
 - I work on random projects on my spare time
 
 #### Skills
-![Main skills](https://skillicons.dev/icons?i=cpp,py,mysql,html,js,java,kotlin)
+![Main skills](https://skillicons.dev/icons?i=cpp,py,kotlin,java,mysql,raspberrypi,js,html)
 
 #### Stats
   <img src="https://github-readme-stats.vercel.app/api?username=Fr4nKB&show_icons=true&hide=issues&theme=dark"/>
