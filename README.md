@@ -1,6 +1,6 @@
 <h1 align="center">Hello there... I'm Francesco</h1>
 
-- Master student in Computer Enginerring @ UniPi
+- Computer Engineer
 - Hardware enthusiast
 - I work on random projects on my spare time
 
