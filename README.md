@@ -1,8 +1,8 @@
-<h1 align="center">Hello there... I'm Francesco</h1>
+<h1 align="center">Hello there, I'm Francesco</h1>
 
 - Computer Engineer
 - Hardware enthusiast
-- I work on random projects on my spare time
+- I work on random projects in my spare time
 
 #### Skills
 ![Main skills](https://skillicons.dev/icons?i=cpp,py,kotlin,java,mysql,raspberrypi,js,html)
