@@ -5,7 +5,7 @@
 - I work on random projects in my spare time
 
 #### Skills
-![Main skills](https://skillicons.dev/icons?i=cpp,py,kotlin,java,mysql,raspberrypi,js,html)
+![Main skills](https://skillicons.dev/icons?i=cpp,kotlin,py,java,androidstudio,raspberrypi,mysql,js,html)
 
 #### Stats
   <img src="https://github-readme-stats.vercel.app/api?username=Fr4nKB&show_icons=true&hide=issues&theme=dark"/>
